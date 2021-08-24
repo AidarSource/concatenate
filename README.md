@@ -4,3 +4,6 @@ To concatenate all your .txt files you need to drop this script to folder with .
 ```py
 python script.py
 ```
+
+
+At the result you get new concatenated .txt file with naming `all_COMPILETIME.txt`
